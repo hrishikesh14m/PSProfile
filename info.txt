@@ -1,0 +1,7 @@
+First name : Hrishikesh
+Last name : Muley
+dept : Accounting
+email : hrishikesh.muley@accounting.company.com
+password : ryyxE#Dr*
+mail_capacity : 500
+alternate_email : null
